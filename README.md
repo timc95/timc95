@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @timc95
+- 👋 Hi
 - 🌱 I’m here 4fun
