@@ -9,7 +9,7 @@ building products during the day, "dev" at night
 - other: **_may or may not_** be responsive to carrier pigeons and smoke signals
 
 
-### languages known
+### ⛳️ languages known
 
 - Python
 - English
